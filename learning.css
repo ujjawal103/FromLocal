@@ -1,0 +1,10 @@
+h1{
+    color: aqua;
+    background-color: black;
+    border-radius: 20px;
+}
+p{
+    color: rgb(119, 16, 107);
+    background-color: rgb(20, 107, 154);
+    border-radius: 10px;
+}
